@@ -1,5 +1,5 @@
 {
-  "name": "byteball-marketplace",
+  "name": "GAEA-marketplace",
   "version": "0.0.0",
   "description": "Marketplace for the Byteball network",
   "scripts": {
@@ -12,8 +12,8 @@
   "dependencies": {
     "bitcore-lib": "^0.13.14",
     "bitcore-mnemonic": "~1.0.0",
-    "byteballcore": "^0.2.52",
-    "headless-byteball": "git+https://github.com/byteball/headless-byteball.git",
+    "byteballcore": "git+https://github.com/guijun/byteballcore.git#0.2.86",
+    "GAEA-headless": "git+https://github.com/guijun/headless-byteball.git#0.1.9",
     "mongoose": "~4.7.8"
   }
 }

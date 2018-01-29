@@ -9,7 +9,7 @@ exports.bLight = false;
 
 exports.storage = 'sqlite';
 
-exports.hub = 'byteball.org/bb-test';
+exports.hub = 'leapjoy.cn/gaea';
 exports.deviceName = 'Marketplace';
 exports.permanent_pairing_secret = '0000';
 exports.KEYS_FILENAME = 'keys.json';

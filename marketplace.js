@@ -6,7 +6,7 @@ const model = require('./lib/model.js');
 const Chat = require('./lib/chat.js');
 const seller = require('./lib/seller.js');
 const buyer = require('./lib/buyer.js');
-const headlessWallet = require('headless-byteball');
+const headlessWallet = require('GAEA-headless');
 require('byteballcore/wallet.js');
 
 const usage = `Use the commands below to get started:
